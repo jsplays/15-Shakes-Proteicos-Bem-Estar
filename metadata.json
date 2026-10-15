@@ -1,0 +1,6 @@
+{
+  "name": "NutriShake & Fit",
+  "description": "15 Shakes Caseiros Proteicos e Monitoramento de Treinos e Bem-Estar",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
